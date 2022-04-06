@@ -1,2 +1,1 @@
-# dart_backend_example
-erstes Beispiel mit dart als backend rest service
+A simple command-line application.
